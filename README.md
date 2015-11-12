@@ -1,6 +1,6 @@
 ---
 title: "README.md"
-author: "Manfred Wania"
+author: "Manfred Wania "
 date: "12 November 2015"
 output: html_document
 ---
